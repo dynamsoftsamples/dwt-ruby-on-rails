@@ -1,0 +1,2 @@
+module TwainscanningHelper
+end
