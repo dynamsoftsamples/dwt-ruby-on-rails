@@ -55,8 +55,9 @@ Basic Steps
 
 Blog
 ----
-Coming soon...
+[How to Load, Scan and Upload Files with Ruby on Rails][4]
 
 [1]:http://www.dynamsoft.com/Downloads/WebTWAIN_Download.aspx
 [2]:http://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.7-i386-mingw32.7z
 [3]:http://dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe
+[4]:http://www.codepool.biz/ruby-rails-scan-upload-file.html
