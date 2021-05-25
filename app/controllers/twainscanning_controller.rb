@@ -1,4 +1,7 @@
 class TwainscanningController < ApplicationController
+  # skip_before_action :verify_authenticity_token
+  # protect_from_forgery except: :index
+
   def home
   end
 
@@ -13,10 +16,5 @@ class TwainscanningController < ApplicationController
     File.open(Rails.root.join('public', 'upload', uploaded_io.original_filename), 'wb') do |file|
       file.write(uploaded_io.read)
     end
-
-    respond_to do |format|
-      format.html.any { render text: "Successfully uploaded!"}
-    end
-
   end
 end
