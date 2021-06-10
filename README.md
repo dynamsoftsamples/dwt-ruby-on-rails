@@ -35,7 +35,7 @@ The sample demonstrates how to integrate Dynamic Web TWAIN into Ruby on Rails pr
     ``` 
 4. Open **http://localhost:3000** in your web browser.
 
-![Dynamic Web TWAIN with Ruby on Rails](https://www.dynamsoft.com/codepool/img/2015/09/dwt_rubyPNG.png)
+![Dynamic Web TWAIN with Ruby on Rails](https://www.dynamsoft.com/codepool/img/2021/06/ruby-rails-document-management.png)
 
 
 
